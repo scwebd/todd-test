@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todd-test/static/css/main.09bd050f.chunk.css",
+    "main.js": "/todd-test/static/js/main.b303196e.chunk.js",
+    "main.js.map": "/todd-test/static/js/main.b303196e.chunk.js.map",
+    "runtime~main.js": "/todd-test/static/js/runtime~main.c2c8db26.js",
+    "runtime~main.js.map": "/todd-test/static/js/runtime~main.c2c8db26.js.map",
+    "static/js/2.dc948b19.chunk.js": "/todd-test/static/js/2.dc948b19.chunk.js",
+    "static/js/2.dc948b19.chunk.js.map": "/todd-test/static/js/2.dc948b19.chunk.js.map",
+    "index.html": "/todd-test/index.html",
+    "precache-manifest.db1fafe7c98e9c92037039c7f7f06012.js": "/todd-test/precache-manifest.db1fafe7c98e9c92037039c7f7f06012.js",
+    "service-worker.js": "/todd-test/service-worker.js",
+    "static/css/main.09bd050f.chunk.css.map": "/todd-test/static/css/main.09bd050f.chunk.css.map"
+  }
+}
